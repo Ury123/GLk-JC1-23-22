@@ -14,7 +14,7 @@ public class Task8 {
                  System.out.println(a + " рублей");
              } else if (a%10 == 1) {
                  System.out.println(a + " рубль");
-             } else if (a%10>=2 & a%10<=4) {
+             } else if (a%10>=2 &  a%10<=4) {
                  System.out.println(a + " рубля");
              } else if (a%10>=5 & a%10<=9) {
                  System.out.println(a + " рублей");
